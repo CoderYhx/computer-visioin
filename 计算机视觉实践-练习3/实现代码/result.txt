@@ -1,0 +1,5 @@
+baby.png       PSNR: 37.88  SSIM: 0.9736
+bird.png       PSNR: 35.26  SSIM: 0.9635
+butterfly.png  PSNR: 27.39  SSIM: 0.9106
+head.png       PSNR: 39.54  SSIM: 0.9710
+woman.png      PSNR: 31.32  SSIM: 0.9509
